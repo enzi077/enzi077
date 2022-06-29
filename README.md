@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end web development, UI/UX design and graphic designing
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me ...
+- 📫 He He
 
 <!---
 enzi077/enzi077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
